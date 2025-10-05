@@ -1,4 +1,4 @@
-# Privacy Policy for Hotwire Geolocation Checker
+# Privacy Policy for dariocatalani Geolocation Checker
 
 **Last updated:** 2025-10-04
 
