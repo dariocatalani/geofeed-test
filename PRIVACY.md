@@ -3,7 +3,7 @@
 **Last updated:** 2025-10-04
 
 ## Who we are
-This tool (“Hotwire Geolocation Checker”) is operated by [Hotwire / Dario Catalani].  
+This tool (“dariocatalani Geolocation Checker”) is operated by [dariocatalani / Dario Catalani].  
 Contact: [email or issues link]
 
 ## What this tool does
@@ -18,7 +18,7 @@ When a user enters an IP or CIDR, the tool calls third-party geolocation APIs to
 - **Responses received:** Geolocation metadata (e.g., country, region, city).
 
 ## Purpose of processing
-To verify geolocation for network administration and data quality checks against our geofeed (`https://github.com/hotwireipadmin/geofeed`).
+To verify geolocation for network administration and data quality checks against our geofeed (`[https://github.com/dariocatalani/geofeed-test)]`).
 
 ## Legal basis / user expectations
 Processing is performed at the user’s request to provide the service’s core functionality.
